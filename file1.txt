@@ -1,5 +1,6 @@
 Hello world
 Goodbye evening! (form branch master) (from user2)
 some change from add-feature1
+line from user1 - lesson about rebase
 
 

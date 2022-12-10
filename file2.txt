@@ -1,2 +1,3 @@
 Good bye!
 line form user2
+another line from user2
